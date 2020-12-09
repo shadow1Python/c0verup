@@ -1,2 +1,2 @@
 # c0verup
-The official bridge between unc0ver and odyssey
+V1.0 is built using an unc0ver themed website and odyssey's exact app to jailbreak while the developer (shadow1Python) works on his own version of Odyssey to jailbreak with.
