@@ -31,3 +31,11 @@ b1.0 is built using an odyssey themed website and odyssey's exact app to jailbre
 *Email:* hschnaare@icloud.com
 
 *Donations:* hschnaare@icloud.com on paypal
+
+**ALPHA OR BETA:**
+
+*Currently Alpha is my main focus, and my favorite... I'll update this part over time while I list some differences below*
+
+*Alpha is an unc0ver themed website with dark and light mode*
+
+*Beta is an odyssey themed website with a better credit layout and installation guide.*
