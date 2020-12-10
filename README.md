@@ -13,7 +13,8 @@ b1.0 is built using an odyssey themed website and odyssey's exact app to jailbre
 
 
 **NOTES:**
-*Alpha and beta are two different release sections, and will include two different versions of c0verup (Both will be similar with slight changes) release V1.0 will be the first official working release of c0verup and will use either Alpha or Beta (Depending on a mix of factors like; What I feel the best version is, and which one has the most downloads in it's latest release)
+
+*Alpha and beta are two different release sections, and will include two different versions of c0verup (Both will be similar with slight changes) release V1.0 will be the first official working release of c0verup and will use either Alpha or Beta (Depending on a mix of factors like; What I feel the best version is, and which one has the most downloads in it's latest release)*
 
 *Alpha and beta are **NOT** official releases, they **ARE** pre-releases, anything in them is not official and there will be quite a few... bugs and mishaps to say the least*
 
@@ -26,5 +27,7 @@ b1.0 is built using an odyssey themed website and odyssey's exact app to jailbre
 *I will also, pay anyone with a macintosh (Has to be able to run configurator and xcode) to let me anydesk and work on my project, thank you.*
 
 **LINKS:**
+
 *Email:* hschnaare@icloud.com
+
 *Donations:* hschnaare@icloud.com on paypal
