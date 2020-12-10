@@ -34,8 +34,12 @@ b1.0 is built using an odyssey themed website and odyssey's exact app to jailbre
 
 **ALPHA OR BETA:**
 
-*Currently Alpha is my main focus, and my favorite... I'll update this part over time while I list some differences below*
+*Currently Alpha is my main focus, and my favorite is probably beta... I'll update this part over time while I list some differences below*
 
 *Alpha is an unc0ver themed website with dark and light mode*
 
-*Beta is an odyssey themed website with a better credit layout and installation guide.*
+*Beta is an odyssey themed website with a better credit layout and installation guide, as well as a stunning top banner and genious description.*
+
+*Alpha is the c0verup.dev folder*
+
+*Beta is the c0verup-odyssey folder*
