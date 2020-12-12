@@ -28,9 +28,9 @@ b1.0 is built using an odyssey themed website and odyssey's exact app to jailbre
 
 **LINKS:**
 
-*Email:* hschnaare@icloud.com
+*Email:* dhschnaare@gmail.com
 
-*Donations:* hschnaare@icloud.com on paypal
+*Donations:* dhschnaare@gmail.com on paypal
 
 **ALPHA OR BETA:**
 
