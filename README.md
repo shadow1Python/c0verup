@@ -49,3 +49,5 @@ b1.0 is built using an odyssey themed website and odyssey's exact app to jailbre
 *See live results here: https://linkto.run/r/H70NXRBI*
 
 *Most updated version: Both as of 12/13/20 at 1:19PM CST*
+
+**THANK YOU FOR 100K - 12/21/20 - shadow1**
