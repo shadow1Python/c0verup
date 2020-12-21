@@ -3,6 +3,8 @@ a1.0 is built using an unc0ver themed website and odyssey's exact app to jailbre
 
 b1.0 is built using an odyssey themed website and odyssey's exact app to jailbreak while the developer (shadow1Python) works on his own version of Odyssey to jailbreak with.
 
+b2.0 is built using an Odyssey themed website and odyssey's exact app to jailbreak while the developer (shadow1Python) works on his own version of Odyssey to jailbreak with.
+
 [Oddyssey website](https://theodyssey.dev/)
 
 [Oddyssey repository](https://github.com/TheOdysseyJB/Odyssey)
@@ -48,6 +50,8 @@ b1.0 is built using an odyssey themed website and odyssey's exact app to jailbre
 
 *See live results here: https://linkto.run/r/H70NXRBI*
 
-*Most updated version: Both as of 12/13/20 at 1:19PM CST*
+*Most updated version: Beta as of 12/21/20 at 12:15PM CST*
 
 **THANK YOU FOR 100K - 12/21/20 - shadow1**
+
+*Website deployed 12/21/20, blog and it's first post coming soon*
