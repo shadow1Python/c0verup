@@ -34,6 +34,10 @@ b2.0 is built using an Odyssey themed website and odyssey's exact app to jailbre
 
 *Donations:* dhschnaare@gmail.com on paypal
 
+*Blog:* https://sites.google.com/view/c0verupblog/home?authuser=1
+
+*Beta website:* http://c0verup.epizy.com/
+
 **ALPHA OR BETA:**
 
 *Currently Alpha is my main focus, and my favorite is probably beta... I'll update this part over time while I list some differences below*
