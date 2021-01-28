@@ -22,11 +22,7 @@ b2.0 is built using an Odyssey themed website and odyssey's exact app to jailbre
 
 *I am one person, developing an entire jailbreak "Oh bUt uR uSiNg oPen sOuRcE proJecTs" yes, but the majority of the stuff you find here has been changed... A lot, the only thing that won't change for quite some time is using Odyssey's IPA, it can't be changed until I get my own IPA to work, that being said...*
 
-*I am looking for developers, I currently don't have the funds to pay you, so I understand not wanting to work, and I'm not even asking you to work... I'm just saying that if you have a little time out of your day you can write some code in either Javascript or HTML that would be good for our project, I'd appreciate it and of course credit you.*
-
-*I will however, pay an IOS developer to create a working IPA that's a remake of Odyssey but c0verup themed (Email me for more info)*
-
-*I will also, pay anyone with a macintosh (Has to be able to run configurator and xcode) to let me anydesk and work on my project, thank you.*
+*A developer has been paid, and we have a test IPA to work with, just need to change some parts to make it work on IOS 12.*
 
 **LINKS:**
 
