@@ -26,9 +26,6 @@ b2.0 is built using an Odyssey themed website and odyssey's exact app to jailbre
 
 **LINKS:**
 
-*Email:* dhschnaare@gmail.com
-
-*Donations:* dhschnaare@gmail.com on paypal
 
 *Blog:* https://sites.google.com/view/c0verupblog/home?authuser=1
 
