@@ -1,4 +1,4 @@
-# c0verup
+BEFORE READING ANY FURTHER: I AM LOOKING FOR AN IOS 13 DEVICE TO TEST AN EXPIEREMENTAL VERSION OF MY THE APP (With ios 13 and 14 support) # c0verup
 a1.0 is built using an unc0ver themed website and odyssey's exact app to jailbreak while the developer (shadow1Python) works on his own version of Odyssey to jailbreak with.
 
 b1.0 is built using an odyssey themed website and odyssey's exact app to jailbreak while the developer (shadow1Python) works on his own version of Odyssey to jailbreak with.
