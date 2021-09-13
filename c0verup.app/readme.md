@@ -9,7 +9,9 @@ This will not be compiled (Unless you want to compile it) by me (publically) unt
 **LINKS:**
 
 https://github.com/GeoSn0w/Blizzard-Jailbreak - Blizzard jailbreak developed by GeoSn0w
+
 https://github.com/Odyssey-Team/Taurine - Taurine Jailbreak developed by Coolstar and team.
+
 https://github.com/Odyssey-Team/Odyssey - Odyssey Jailbreak developed by Coolstar and team.
 
 Will add more as exploits are implimented.
